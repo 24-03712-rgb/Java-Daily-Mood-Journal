@@ -1,8 +1,8 @@
 1. Daily Mood Journal
 
-2. The Daily Mood Journal is a simple, interactive, and console-based mental health tool designed to help users track their daily emotional state. It allows users to record their mood, write a short note about their day, and receive personalized feedback based on the mood they enter. Each entry is organized by date, making it easy for users to review past logs at any time. By providing a structured way to document emotions and daily reflections, the program promotes self-awareness, emotional well-being, and the identification of personal mood patterns. Through consistent journaling, users can better understand their mental state, manage stress, and develop healthier coping habits over time.
+3. The Daily Mood Journal is a simple, interactive, and console-based mental health tool designed to help users track their daily emotional state. It allows users to record their mood, write a short note about their day, and receive personalized feedback based on the mood they enter. Each entry is organized by date, making it easy for users to review past logs at any time. By providing a structured way to document emotions and daily reflections, the program promotes self-awareness, emotional well-being, and the identification of personal mood patterns. Through consistent journaling, users can better understand their mental state, manage stress, and develop healthier coping habits over time.
 
-3. OOP Concepts Applied
+4. OOP Concepts Applied
 
 This project applies the four core principles of Object-Oriented Programming: Abstraction, Encapsulation, Inheritance, and Polymorphism.
 
